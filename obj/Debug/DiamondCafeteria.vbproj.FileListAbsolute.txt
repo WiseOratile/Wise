@@ -1,0 +1,56 @@
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.exe.config
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.exe
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.pdb
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.xml
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.vbprojAssemblyReference.cache
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.FrmUI.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Resources.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.vbproj.GenerateResource.cache
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.exe
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.xml
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.pdb
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Registration.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Student_Sign_in.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Student_Food_Receipt.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Admin.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\bin\Debug\CafeDatabase.accdb
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Vegan.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Haalal.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Lactose_Intolerant.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.None.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Other.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Sugar_Free.resources
+C:\Users\Student\Documents\EXERCISE PRACTICE\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Vegetarian.resources
+C:\Users\Student\source\repos\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.vbprojAssemblyReference.cache
+C:\Users\Student\source\repos\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.exe
+C:\Users\Student\source\repos\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.xml
+C:\Users\Student\source\repos\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.pdb
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\bin\Debug\CafeDatabase.accdb
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.exe.config
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.exe
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.pdb
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\bin\Debug\DiamondCafeteria.xml
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.vbprojAssemblyReference.cache
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Admin.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.FrmUI.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Haalal.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Lactose_Intolerant.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Resources.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.None.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Other.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Registration.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Student_Food_Receipt.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Student_Sign_in.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Sugar_Free.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Vegan.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Vegetarian.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.vbproj.GenerateResource.cache
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.exe
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.xml
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.pdb
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Lacto.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.NoneMenu.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Sign_in.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.VegetarianMenu.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.VeganOrder.resources
+C:\Users\Student\Documents\Group One-Project\DiamondCafeteria\DiamondCafeteria\DiamondCafeteria\obj\Debug\DiamondCafeteria.Sugar_FreeOrder.resources
